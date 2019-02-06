@@ -1,5 +1,7 @@
 h1{
-  color:red
+  color:red;
+  text-decoration: underline blue;
+  
 }
 h2{
   color: blue;
